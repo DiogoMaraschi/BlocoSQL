@@ -1,4 +1,4 @@
-package br.ifsc.edu.nostasql;
+package br.ifsc.edu.blocodenotassql;
 
 public class Nota {
 
